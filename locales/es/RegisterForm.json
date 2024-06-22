@@ -1,0 +1,26 @@
+{
+    "Form": "Crea tu espacio personal",
+    "Form1": "¡Genial! proteger a su familia toma solo 5 minutos. ¿Listo para ir?",
+    "name": "Nombre",
+    "phone": "Telefono",
+    "email": "E-mail",
+    "verifyEmail": "Confirmar E-mail",
+    "message": "Mensaje",
+
+    "paragraph1": "He leído y acepto el",
+    "paragraph2": "aviso legal ",
+    "and":" y ",
+    "paragraph3": "la política de privacidad ",
+
+    "send": "Enviar",
+
+    "Required": "Campo Requerido",
+    "Obligatory": "Campo Obligatorio",
+    "match": "Los Correos no Coinciden",
+    "policies": "Debes aceptar nuestras políticas de privacidad",
+    "password":"Contraseña",
+    "confirm_password":"Confirmar contraseña",
+    "register":"Registrarse"
+
+
+}

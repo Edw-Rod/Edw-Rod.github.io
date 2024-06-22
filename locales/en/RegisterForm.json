@@ -1,0 +1,25 @@
+{
+    "Form": "Create your personal space",
+    "Form1": "Great! protect your familia only take 5 minutes. Ready to go?",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "verifyEmail": "Confirm Email",
+    "message": "Message",
+
+    "paragraph1": "I agree with the",
+    "paragraph2": " legal warning ",
+    "and":" and ",
+    "paragraph3": " privacy policy ",
+
+    "send": "Send",
+
+    "Required": "Required field",
+    "Obligatory": "Obligatory field",
+    "match": "The emails do not match",
+    "policies": "You must accept our privacy policies",
+    "password": "Password",
+    "confirm_password": "Confirm password",
+    "register":"Register"
+
+}

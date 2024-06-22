@@ -1,0 +1,19 @@
+{
+    "Form": "Form",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "verifyEmail": "Confirm Email",
+    "message": "Message",
+
+    "paragraph1": "I agree with the",
+    "paragraph2": "privacy policy",
+
+    "send": "Send",
+
+    "Required": "Required field",
+    "Obligatory": "Obligatory field",
+    "match": "The emails do not match",
+    "policies": "You must accept our privacy policies"
+
+}

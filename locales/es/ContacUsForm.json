@@ -1,0 +1,21 @@
+{
+    "Form": "Formulario",
+    "name": "Nombre",
+    "phone": "Telefono",
+    "email": "E-mail",
+    "verifyEmail": "Confirmar E-mail",
+    "message": "Mensaje",
+
+    "paragraph1": "Estoy de acuerdo con la",
+    "paragraph2": "política de privacidad",
+
+    "send": "Enviar",
+
+    "Required": "Campo Requerido",
+    "Obligatory": "Campo Obligatorio",
+    "match": "Los Correos no Coinciden",
+    "policies": "Debes aceptar nuestras políticas de privacidad"
+
+
+
+}
